@@ -1,0 +1,88 @@
+{
+  "name": "cold weather running gear",
+  "domain": "cold-weather-running-gear-pending.example",
+  "niche": "cold weather running gear",
+  "description": "We've run thousands of miles in subzero temps to find the layers, shoes, and accessories that actually keep you warm and moving. No marketing fluff—just gear that works.",
+  "affiliateDisclosure": "This site contains affiliate links. We may earn a commission at no extra cost to you.",
+  "heroImagePath": "/images/hero.jpg",
+  "silos": [
+    {
+      "slug": "best-cold-weather-gear-for-running",
+      "name": "Best Cold Weather Gear For Running",
+      "keywordTheme": "best cold weather gear for running",
+      "description": "Topical silo anchored on \"best cold weather gear for running\".",
+      "imagePath": "/images/silo-best-cold-weather-gear-for-running.jpg",
+      "hubUrl": "/best-cold-weather-gear-for-running/",
+      "spokeCount": 34
+    },
+    {
+      "slug": "gear-for-cold-weather-running-2",
+      "name": "Gear For Cold-Weather Running",
+      "keywordTheme": "gear for cold-weather running",
+      "description": "Topical silo anchored on \"gear for cold-weather running\".",
+      "imagePath": "/images/silo-gear-for-cold-weather-running-2.jpg",
+      "hubUrl": "/gear-for-cold-weather-running-2/",
+      "spokeCount": 0
+    }
+  ],
+  "brand": {
+    "tagline": "Cold Weather Running Gear Authority Since 2020",
+    "hubLabel": "Guides, Reviews & Comparisons",
+    "hubTitle": "Everything Cold Weather Runners Need to Know",
+    "editorRole": "Winter Running Editor",
+    "trustStats": [
+      {
+        "label": "Editor-Curated",
+        "value": "100%"
+      },
+      {
+        "label": "No Sponsored Posts",
+        "value": "Independent"
+      },
+      {
+        "label": "Updated Rankings",
+        "value": "Weekly"
+      },
+      {
+        "label": "Affiliate Disclosed",
+        "value": "All"
+      }
+    ],
+    "heroEyebrow": "2025 Expert Reviews · Updated Weekly",
+    "paletteName": "forest",
+    "editorByline": "By Marcus Webb",
+    "newsletterCta": "Subscribe",
+    "heroHeadlineEm": "Tested in Real Conditions",
+    "heroPrimaryCta": "See Top Picks →",
+    "newsletterDesc": "Get honest reviews of new cold weather running gear, seasonal buying guides, and tested tips for staying warm on winter runs—delivered to your inbox each week.",
+    "quickNavLabels": [
+      "Base Layers",
+      "Insulated Jackets",
+      "Winter Running Shoes",
+      "Gloves & Hats",
+      "Best Under $100",
+      "Budget Picks",
+      "Premium Options"
+    ],
+    "bestsellerLabel": "Also Worth Considering",
+    "bestsellerTitle": "More Top-Tested Cold Weather Gear",
+    "comparisonTitle": "All Five Recommended Gear Sets Side by Side",
+    "guideBannerDesc": "Learn how layering works, which materials stay warm when wet, and what features matter most for winter running. Our guide covers temperature ratings, fit, and durability.",
+    "heroDescription": "We've run thousands of miles in subzero temps to find the layers, shoes, and accessories that actually keep you warm and moving. No marketing fluff—just gear that works.",
+    "newsletterTitle": "New Gear Reviews & Winter Running Tips",
+    "guideBannerLabel": "Complete 2025 Buyer's Guide",
+    "guideBannerTitle": "How to Choose Cold Weather Running Gear",
+    "heroHeadlineLead": "The Best Cold Weather Running Gear,",
+    "heroSecondaryCta": "How We Test",
+    "productGridLabel": "Editor's Choice · January 2025",
+    "productGridTitle": "Our Top-Ranked Cold Weather Running Gear",
+    "footerDescription": "We're a small team of year-round runners who test cold weather gear in real conditions—from city streets to mountain trails. Our reviews are honest, unsponsored, and built on thousands of miles run in the cold.",
+    "newsletterEyebrow": "Stay in the Loop",
+    "productNounPlural": "gear",
+    "announcementBarText": "Winter Running Guide Free · Shop Our Top-Tested Gear",
+    "productNounSingular": "gear"
+  },
+  "paletteName": "forest",
+  "generatedAt": "2026-05-05T02:54:15.861Z",
+  "factoryVersion": "0.1.0"
+}
